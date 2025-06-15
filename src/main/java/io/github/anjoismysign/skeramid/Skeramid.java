@@ -1,4 +1,4 @@
-package me.anjoismysign;
+package io.github.anjoismysign.skeramid;
 
 import org.jetbrains.annotations.NotNull;
 
